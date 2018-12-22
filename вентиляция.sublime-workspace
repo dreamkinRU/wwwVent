@@ -5,7 +5,7 @@
 		[
 			[
 				"n",
-				"nav	Tag"
+				"nav\tTag"
 			],
 			[
 				"var",
@@ -13,7 +13,7 @@
 			],
 			[
 				"s",
-				"style	Attr"
+				"style\tAttr"
 			],
 			[
 				"fun",
@@ -23,6 +23,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23693,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -83,6 +92,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/Dropbox/_Work/liderair.ru/www"
+	],
 	"file_history":
 	[
 		"/C/Users/User/Desktop/surogou/layout/styles/framework.css",
@@ -253,14 +266,45 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 23693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -294,7 +338,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "index.sublime-project",
+	"project": "вентиляция.sublime-project",
 	"replace":
 	{
 		"height": 72.0
